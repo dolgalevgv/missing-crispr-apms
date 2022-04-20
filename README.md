@@ -1,4 +1,4 @@
-# missing_crispr_apms
+# missing-crispr-apms
 A collection of scripts, notebooks and config files used during working on a project dedicated to CRISPR/Cas9-mediated epitope tagging and subsequent affinity purification of missing proteins. This repository is supposed to be a 'code' folder inside the project's folder.
 
 ## Files
